@@ -4,9 +4,9 @@
 
 ## Description 
 
-
 An iOS Application that converts any text or url into func QRCode IMG 
 --- 
 ## Lincense & Copyrigth 
 
 Open Source Software
+
