@@ -1,9 +1,10 @@
-#QRCode-Gen-App 
+## QRCode-Gen-App 
 **Version 1.0.0**
-
-An iOS App tat helps with any text or url convert into an scannable QRCODE in secs 
-
+---
+## Description 
+An iOS Application that converts any text or url into func QRCode IMG 
 --- 
 ## Lincense & copyrigth 
 
 Open Source Software
+
