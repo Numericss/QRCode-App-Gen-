@@ -7,4 +7,3 @@ An iOS Application that converts any text or url into func QRCode IMG
 ## Lincense & copyrigth 
 
 Open Source Software
-
